@@ -1,0 +1,10 @@
+/* Small devices (tablets, 768px and up) ----------------------------------- */
+@media (min-width: $small-devices) {
+	.home-full-slider-wrapper {
+	    height: 100vh;
+	}
+
+	.home-full-slider .home-full-item {
+	    min-height: 100vh;
+	}
+}
